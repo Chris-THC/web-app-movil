@@ -1,0 +1,15 @@
+.cont-btn {
+  margin: auto;
+  width: 35%;
+
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+
+.cont-btn button {
+  margin: 10px;
+  height: 35px;
+  background-color: #1568b6d5;
+  padding: 5px;
+}

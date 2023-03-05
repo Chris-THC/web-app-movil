@@ -1,0 +1,8 @@
+#btnGPS{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding-left: 5px;
+    padding-top: 5px;
+    background-color: #1f1d1dc4;
+}

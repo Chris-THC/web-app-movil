@@ -1,0 +1,30 @@
+.contPrincipal {
+  margin: auto;
+  width: 95%;
+  background-color: #a3e6e6;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  min-height: 100vh;
+  height: auto;
+}
+
+/* Mensaje de Error */
+
+.cont-datNoFound {
+  margin: auto;
+  height: auto;
+  width: 70%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  text-align: center;
+  padding: 10px;
+}
+
+h3 {
+  font-size: 35px;
+  font-weight: bold;
+  font-family: "Nunito", sans-serif;
+}

@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@400;600&family=Nunito:wght@200;300;400&display=swap");
+
+/* >Seccion de los estilos de letras
+
+
+font-family: 'Edu VIC WA NT Beginner', cursive;
+font-family: 'Nunito', sans-serif;
+
+*/
+
+nav {
+  height: 60px;
+  padding: 10px;
+  text-align: center;
+  background-color: #1f1d1dc4;
+}
+
+a {
+  color: #f5f5f5;
+  font-family: "Nunito", sans-serif;
+  font-size: 28px;
+  cursor: pointer;
+  text-decoration: none;
+}

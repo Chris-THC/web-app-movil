@@ -1,0 +1,58 @@
+.cont-tarjeta {
+  margin: 15px;
+  padding: 10px;
+  border: 3px solid #fefeffdc;
+  width: 300px;
+  max-height: 500px;
+  border-radius: 8px;
+}
+
+.cont-img {
+  display: flex;
+  justify-content: center;
+}
+
+.cont-img img {
+  height: auto;
+  width: 280px;
+  border-radius: 5px;
+}
+
+.cont-ifo {
+  color: #1f1d1de5;
+  margin-top: 10px;
+  text-align: center;
+}
+
+h4 {
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+}
+p {
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
+  color: #1f1d1dd8;
+}
+
+.cont-btn {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+.cont-btn button {
+  background-color: #038f88ef;
+  border: none;
+  color: #fff;
+  font-family: "Nunito", sans-serif;
+  height: 30px;
+  width: auto;
+  border-radius: 4px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+hr {
+  border-top: 1px solid #f1f1f1;
+}
